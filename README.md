@@ -6,10 +6,10 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  Hello everyone, I am LeeHyungJoo, who dreams of becoming a developer.<br/>
+  Aiming to become a backend developer, I am studying Python / DJango as my language and specialty,<br/>
+  and studying the basics of frontend together.<br/><br/>
+  With the belief that small actions can change the world, I pray that my development will make the world easier🙏<br/><br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehyungjoo-div&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyungjoo-div&layout=compact&hide_border=true&theme=white)
