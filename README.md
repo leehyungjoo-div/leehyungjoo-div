@@ -1,6 +1,6 @@
 <div align=center> 
   <p>
-  <a href="https://code-studyhard.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://code-studyhard.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=dark"/></a>
   <a href="mailto:juu1121@gmail.com" target="_blank"><img src="https://img.shields.io/badge/juu1121@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hyungjoo-lee-233ba022b/" target="_blank"><img src="https://img.shields.io/badge/nmdkims-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
